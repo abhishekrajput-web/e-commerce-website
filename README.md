@@ -1,6 +1,6 @@
 # E Commerce
 <h1>Basic E-Commerce Website Using Html CSS js tailwindcss And Flowbite Components</h1>
-<p><a href="https://abhishekrajput-web.github.io/e-commerce/">View The Live Website Deployment <a><p>
+<p><a href="https://abhishekrajput-web.github.io/e-commerce-website/">View The Live Website Deployment <a><p>
 
 <h2 style="color:white">Technology Used To Make This Website</h2>
 
@@ -24,7 +24,7 @@
  
  
 <h2 style="margin-top:20px">Quick Start</h2>
-<p>Fork the repository - https://github.com/abhishekrajput-web/e-commerce.git<p>
+<p>Fork the repository - https://github.com/abhishekrajput-web/e-commerce-website.git<p>
 
 
 <h2 style="color:white;margin-top:20px">Credit For Images And Favicon<h2>
