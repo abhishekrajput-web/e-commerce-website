@@ -1,2 +1,2 @@
 # e-commerce-website
-Simple Website Using Html Css Js TailwindCSS And Flowbite Components
+Simple E-commerce Website Using Html Css Js TailwindCSS And Flowbite Components
